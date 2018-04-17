@@ -5,3 +5,4 @@ app/public/.DS_Store
 app/public/.idea/*
 app/public/package-lock.json
 app/public/node_modules/*
+app/public/wp-config.php
